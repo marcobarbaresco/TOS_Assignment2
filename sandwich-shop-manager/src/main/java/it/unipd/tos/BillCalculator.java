@@ -40,7 +40,7 @@ public class BillCalculator implements TakeAwayBill {
         
         //Se l’importo totale è inferiore a 10 € viene aggiunta una commissione di 0,50 €
         if(totale < 10){
-            totale += 0.5;
+            totale =totale + 0.5;
         }
         return totale;
     }
