@@ -1,1 +1,1 @@
-"Marco Barbaresco 1143032"
+Marco Barbaresco 1143032
